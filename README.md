@@ -1,0 +1,1 @@
+This file contains the code for Matrix Chain Multiplication where we have to find the minimum no. of multiplications required for matrix multiplication in minimum time when we have a great number of matrices. 
